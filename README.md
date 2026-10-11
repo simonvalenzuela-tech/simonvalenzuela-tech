@@ -25,6 +25,7 @@ Egresado del Bootcamp Full Stack de **Henry** (2026). Construyo aplicaciones web
 **Backend y bases de datos**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white)
@@ -41,6 +42,15 @@ Egresado del Bootcamp Full Stack de **Henry** (2026). Construyo aplicaciones web
 ---
 
 ## 🚀 Proyectos destacados
+
+### Campus – Plataforma de aprendizaje con tutor de IA *(Proyecto final Henry, en equipo)*
+Plataforma de cursos de programación con un tutor de IA en cada lección que lee el código del alumno y responde en contexto. Ejercicios con XP, certificados verificables con QR, chat en tiempo real y suscripción Premium con pagos online.
+
+**Mi rol:** principalmente frontend de la aplicación, con aportes en el backend.
+
+`Next.js` `TypeScript` `NestJS` `PostgreSQL` `TypeORM` `Stripe` `Socket.io`
+
+🔗 [Ver sitio](https://campus-ai-bice-eight.vercel.app/) · [Frontend](https://github.com/CampusPF/pf-front) · [Backend](https://github.com/CampusPF/pf-back)
 
 ### DevCraft Studio – Portafolio web
 Sitio del emprendimiento con 6 sitios de ejemplo para distintos rubros: cafetería, indumentaria, barbería con reserva de turnos, gimnasio, restaurante y panel de gestión de stock.
